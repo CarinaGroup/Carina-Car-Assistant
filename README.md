@@ -55,20 +55,11 @@ For hotwords detection we used [Snowboy](https://github.com/Kitt-AI/snowboy) [1]
 For SAE J1939 on Arduino we used [ARD1939](http://copperhilltech.com/sae-j1939-ecu-programming-vehicle-bus-simulation-with-arduino/) library [2] which is under <b>GNU v3.0 License</b>
 	
 # Licensing
-Please read LICENSE file.
+Please read python and arduino LICENSE files.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the <b>GNU General Public License</b> as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Arduino code is under GNU v3.0 License.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+Python code is Apache Licensed.
 
 # References
 
